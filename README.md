@@ -11,7 +11,7 @@ Repositorio publico para el bootcamp de Coding Dojo.
 <p>Crea un nuevo proyecto de consola .NET para esta tarea.​​<p>
 
 <pre>
- ``` csharp
+``` csharp
 class Human
 {
     // Properties for Human
@@ -29,12 +29,12 @@ class Human
     {
     }
 }
- ```
+```
 </pre>
 
-<ul?>
+<ul>
     <li>Cree una clase Human con cuatro campos públicos: Nombre (string), Fuerza (int), Inteligencia (int), Destreza (int)</li>
     <li>Agregue un método constructor que tome una string para inicializar el Nombre, y que inicializará la Fuerza, la Inteligencia y la Destreza a un valor predeterminado de 3, y la salud al valor predeterminado de 100.</li>
     <li>Creemos un constructor adicional que acepte 5 parámetros, para que podamos establecer valores personalizados para cada campo.</li>
     <li>Ahora agregue un nuevo método llamado Ataque, que cuando se invoca, debería reducir la salud de un objeto Humano que se pasa como parámetro. El daño realizado debe ser 3 * fuerza (3 puntos de daño al atacado, por cada 1 punto de fuerza del atacante). Este método debería devolver el estado restante del objeto de destino.</li>
-</ul/>
+</ul>
