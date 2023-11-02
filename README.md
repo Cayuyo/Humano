@@ -11,7 +11,7 @@ Repositorio publico para el bootcamp de Coding Dojo.
 <p>Crea un nuevo proyecto de consola .NET para esta tarea.​​<p>
 
 <pre>
-```csharp
+ ``` csharp
 class Human
 {
     // Properties for Human
@@ -29,7 +29,7 @@ class Human
     {
     }
 }
-```
+ ```
 </pre>
 
 <ul?>
