@@ -11,7 +11,7 @@ Repositorio publico para el bootcamp de Coding Dojo.
 <p>Crea un nuevo proyecto de consola .NET para esta tarea.​​<p>
 
 <pre>
-``` csharp
+```cs
 class Human
 {
     // Properties for Human
