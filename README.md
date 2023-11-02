@@ -10,7 +10,7 @@ Repositorio publico para el bootcamp de Coding Dojo.
 
 <p>Crea un nuevo proyecto de consola .NET para esta tarea.​​<p>
 
-<pre>
+
 ```cs
 class Human
 {
@@ -30,7 +30,6 @@ class Human
     }
 }
 ```
-</pre>
 
 <ul>
     <li>Cree una clase Human con cuatro campos públicos: Nombre (string), Fuerza (int), Inteligencia (int), Destreza (int)</li>
